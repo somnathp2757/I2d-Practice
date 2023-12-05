@@ -1,2 +1,6 @@
- merge conflict in file2 master
 this is file 2 commit 1st
+
+
+
+
+
