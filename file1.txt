@@ -1,2 +1,3 @@
- this is file 1 commit 2nd
+
+	  this is file 1 commit 2nd qa
 file1 ==> this is file 1 commit 1st 
